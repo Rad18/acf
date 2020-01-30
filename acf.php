@@ -20,7 +20,6 @@
 <? } ?>
 
 
-
 	  <?  
 	    $nameCompany = get_field('company_name', 'options');   
 	    $politicsCompany = get_field('company_politics', 'options');   
@@ -52,6 +51,3 @@
 
 		 </footer>
 		<!--Footer-end-->
-
-
-
